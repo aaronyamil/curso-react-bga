@@ -1,0 +1,38 @@
+.title-header {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  color: #333333;
+  width: 34%;
+  text-align: start;
+}
+.count {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4f4f4f;
+  width: 50%;
+  text-align: end;
+}
+
+.container-title {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 75%;
+  text-align: center;
+  justify-content: center;
+}
+
+.container-home {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px !important;
+}
