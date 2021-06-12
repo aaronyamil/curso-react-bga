@@ -44,7 +44,7 @@
   margin-right: 3px;
 }
 
-.super {
+.theme1-super {
   font-family: Montserrat;
   font-style: normal;
   font-weight: bold;
@@ -55,6 +55,21 @@
   text-transform: uppercase;
 
   color: #4f4f4f;
+  vertical-align: middle;
+  margin: 5px;
+}
+
+.theme2-super {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  text-transform: uppercase;
+
+  color: #830e0e;
   vertical-align: middle;
   margin: 5px;
 }
